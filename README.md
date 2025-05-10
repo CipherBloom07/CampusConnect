@@ -1,2 +1,1 @@
 # CampusConnect
-a project
